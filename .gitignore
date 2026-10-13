@@ -1,0 +1,12 @@
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.wav
+sintetizador-clases-codigo.zip
+sintetizador-clases-codigo/
+sintetizador-clases-tutorial.md
